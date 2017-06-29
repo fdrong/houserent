@@ -1,0 +1,54 @@
+
+#Maven#
+target/
+build/
+
+#mac osx
+.DS_Store
+
+#log file
+*.log
+
+
+#intellij
+out/
+*.iml
+.idea/*
+
+#eclipse
+.settings
+.classpath
+.project
+.externalToolBuilders
+bin/
+
+#netbeans
+nb-configuration.xml
+glassfish-web.xml
+
+#netbeans
+nb-configuration.xml
+glassfish-web.xml
+
+# angularjs
+node_modules
+rev
+bower_components
+_css
+dist
+
+
+.tmp
+.sass-cache
+__ConfigTemp
+logs/
+
+# misc
+Thumbs.db
+*.pyc
+
+# third lib
+*.jar
+*.pk
+
+alembic.ini
